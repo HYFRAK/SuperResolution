@@ -16,5 +16,5 @@ SRGAN is a generative adversarial network for single image super-resolution. It 
 
 ## Results
 [![SRGAN1.png](https://i.postimg.cc/prfT7z2D/SRGAN1.png)](https://postimg.cc/4H3sHKHd)
-
+[![SRGAN2.png](https://i.postimg.cc/rmpNsWs2/SRGAN2.png)](https://postimg.cc/QBRTnFcf)
 
